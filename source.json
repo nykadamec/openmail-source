@@ -1,0 +1,39 @@
+{
+  "name": "openMail Source",
+  "identifier": "pro.adamec.openmail.source",
+  "subtitle": "openMail IPA source",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.9.",
+  "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+  "website": "https://github.com/nykadamec/openmail_ios_dev",
+  "tintColor": "155EEF",
+  "apps": [
+    {
+      "name": "openMail",
+      "bundleID": "nykadamec.openmail",
+      "bundleIdentifier": "nykadamec.openmail",
+      "developerName": "nykadamec",
+      "subtitle": "Private single-user email client",
+      "localizedDescription": "Native SwiftUI email client for openMail with Remember Me and Keychain-backed session restore.",
+      "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+      "icon": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+      "category": "utilities",
+      "appPermissions": {},
+      "versions": [
+        {
+          "version": "0.0.9",
+          "buildVersion": "9",
+          "date": "2026-08-17T12:45:00Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.9/openMail-unsigned.ipa",
+          "size": 462053,
+          "minOSVersion": "27.0",
+          "localizedDescription": "Remember Me, Keychain-backed session restore, stay signed in login and retry handling for expired sessions."
+        }
+      ],
+      "version": "0.0.9",
+      "versionDate": "2026-08-17T12:45:00Z",
+      "size": 462053,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.9/openMail-unsigned.ipa",
+      "type": 1
+    }
+  ]
+}
