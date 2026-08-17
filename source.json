@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.14.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.15.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -20,19 +20,19 @@
       "appPermissions": {},
       "versions": [
         {
-          "version": "0.0.14",
-          "buildVersion": "14",
-          "date": "2026-08-17T14:00:00Z",
-          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.14/openMail-unsigned.ipa",
-          "size": 470194,
+          "version": "0.0.15",
+          "buildVersion": "15",
+          "date": "2026-08-17T14:15:00Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.15/openMail-unsigned.ipa",
+          "size": 471239,
           "minOSVersion": "27.0",
-          "localizedDescription": "Fixed stale session restore race that could clear a newly successful login."
+          "localizedDescription": "Prevents duplicate session restore after a successful login."
         }
       ],
-      "version": "0.0.14",
-      "versionDate": "2026-08-17T14:00:00Z",
-      "size": 470194,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.14/openMail-unsigned.ipa",
+      "version": "0.0.15",
+      "versionDate": "2026-08-17T14:15:00Z",
+      "size": 471239,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.15/openMail-unsigned.ipa",
       "type": 1
     }
   ]
