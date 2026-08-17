@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.12.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.13.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -20,19 +20,19 @@
       "appPermissions": {},
       "versions": [
         {
-          "version": "0.0.12",
-          "buildVersion": "12",
-          "date": "2026-08-17T13:30:00Z",
-          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.12/openMail-unsigned.ipa",
-          "size": 469486,
+          "version": "0.0.13",
+          "buildVersion": "13",
+          "date": "2026-08-17T13:45:00Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.13/openMail-unsigned.ipa",
+          "size": 469421,
           "minOSVersion": "27.0",
-          "localizedDescription": "Fixed persistence and forwarding of session cookie to follow-up API requests after login redirects."
+          "localizedDescription": "Robust Remember Me Keychain persistence using device-only secure storage."
         }
       ],
-      "version": "0.0.12",
-      "versionDate": "2026-08-17T13:30:00Z",
-      "size": 469486,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.12/openMail-unsigned.ipa",
+      "version": "0.0.13",
+      "versionDate": "2026-08-17T13:45:00Z",
+      "size": 469421,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.13/openMail-unsigned.ipa",
       "type": 1
     }
   ]
