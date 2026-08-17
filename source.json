@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.9.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.10.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -13,26 +13,26 @@
       "bundleIdentifier": "nykadamec.openmail",
       "developerName": "nykadamec",
       "subtitle": "Private single-user email client",
-      "localizedDescription": "Native SwiftUI email client for openMail with Remember Me and Keychain-backed session restore.",
+      "localizedDescription": "Native SwiftUI email client with Remember Me, Keychain-backed session restore and reliable login cookie handling.",
       "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
       "icon": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
       "category": "utilities",
       "appPermissions": {},
       "versions": [
         {
-          "version": "0.0.9",
-          "buildVersion": "9",
-          "date": "2026-08-17T12:45:00Z",
-          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.9/openMail-unsigned.ipa",
-          "size": 462053,
+          "version": "0.0.10",
+          "buildVersion": "10",
+          "date": "2026-08-17T13:00:00Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.10/openMail-unsigned.ipa",
+          "size": 465880,
           "minOSVersion": "27.0",
-          "localizedDescription": "Remember Me, Keychain-backed session restore, stay signed in login and retry handling for expired sessions."
+          "localizedDescription": "Fixed login session cookie handling across redirects and improved login error diagnostics."
         }
       ],
-      "version": "0.0.9",
-      "versionDate": "2026-08-17T12:45:00Z",
-      "size": 462053,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.9/openMail-unsigned.ipa",
+      "version": "0.0.10",
+      "versionDate": "2026-08-17T13:00:00Z",
+      "size": 465880,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.10/openMail-unsigned.ipa",
       "type": 1
     }
   ]
