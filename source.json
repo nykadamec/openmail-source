@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.13.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.14.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -13,26 +13,26 @@
       "bundleIdentifier": "nykadamec.openmail",
       "developerName": "nykadamec",
       "subtitle": "Private single-user email client",
-      "localizedDescription": "Native SwiftUI email client with Remember Me, Keychain-backed session restore and reliable login cookie forwarding.",
+      "localizedDescription": "Native SwiftUI email client with Remember Me, Keychain-backed session restore and race-safe login restore.",
       "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
       "icon": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
       "category": "utilities",
       "appPermissions": {},
       "versions": [
         {
-          "version": "0.0.13",
-          "buildVersion": "13",
-          "date": "2026-08-17T13:45:00Z",
-          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.13/openMail-unsigned.ipa",
-          "size": 469421,
+          "version": "0.0.14",
+          "buildVersion": "14",
+          "date": "2026-08-17T14:00:00Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.14/openMail-unsigned.ipa",
+          "size": 470194,
           "minOSVersion": "27.0",
-          "localizedDescription": "Robust Remember Me Keychain persistence using device-only secure storage."
+          "localizedDescription": "Fixed stale session restore race that could clear a newly successful login."
         }
       ],
-      "version": "0.0.13",
-      "versionDate": "2026-08-17T13:45:00Z",
-      "size": 469421,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.13/openMail-unsigned.ipa",
+      "version": "0.0.14",
+      "versionDate": "2026-08-17T14:00:00Z",
+      "size": 470194,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.14/openMail-unsigned.ipa",
       "type": 1
     }
   ]
