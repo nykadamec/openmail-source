@@ -1,0 +1,35 @@
+{
+  "name": "openMail Source",
+  "identifier": "pro.adamec.openmail.source",
+  "subtitle": "openMail IPA source",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.20.",
+  "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+  "website": "https://github.com/nykadamec/openmail_ios_dev",
+  "tintColor": "155EEF",
+  "apps": [{
+    "name": "openMail",
+    "bundleID": "nykadamec.openmail",
+    "bundleIdentifier": "nykadamec.openmail",
+    "developerName": "nykadamec",
+    "subtitle": "Private single-user email client",
+    "localizedDescription": "Native SwiftUI email client with contacts, domain rules and custom Tailscale server profiles.",
+    "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+    "icon": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
+    "category": "utilities",
+    "appPermissions": {},
+    "versions": [{
+      "version": "0.0.20",
+      "buildVersion": "20",
+      "date": "2026-08-23T15:00:00Z",
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.20/openMail-unsigned.ipa",
+      "size": 747399,
+      "minOSVersion": "27.0",
+      "localizedDescription": "Fixed crash when opening server settings by declaring the Face ID usage description."
+    }],
+    "version": "0.0.20",
+    "versionDate": "2026-08-23T15:00:00Z",
+    "size": 747399,
+    "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.20/openMail-unsigned.ipa",
+    "type": 1
+  }]
+}
