@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.17.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.18.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -18,18 +18,18 @@
     "category": "utilities",
     "appPermissions": {},
     "versions": [{
-      "version": "0.0.17",
-      "buildVersion": "17",
-      "date": "2026-08-23T12:00:00Z",
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.17/openMail-unsigned.ipa",
-      "size": 746960,
+      "version": "0.0.18",
+      "buildVersion": "18",
+      "date": "2026-08-23T13:00:00Z",
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.18/openMail-unsigned.ipa",
+      "size": 747011,
       "minOSVersion": "27.0",
-      "localizedDescription": "Removed the broken default public server. Add a custom Tailscale hostname or IP from the server setup screen."
+      "localizedDescription": "Allows HTTP connections to custom Tailscale servers so self-hosted Flask endpoints work from iOS."
     }],
-    "version": "0.0.17",
-    "versionDate": "2026-08-23T12:00:00Z",
-    "size": 746960,
-    "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.17/openMail-unsigned.ipa",
+    "version": "0.0.18",
+    "versionDate": "2026-08-23T13:00:00Z",
+    "size": 747011,
+    "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.18/openMail-unsigned.ipa",
     "type": 1
   }]
 }
