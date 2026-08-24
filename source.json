@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.29.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.30.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -19,6 +19,15 @@
       "category": "utilities",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.0.30",
+          "buildVersion": "29",
+          "date": "2026-08-24T23:39:38Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.30/openMail-unsigned.ipa",
+          "size": 878797,
+          "minOSVersion": "27.0",
+          "localizedDescription": "Composer tab now has its own navigation bar with Send and Cancel; Cancel in the tab only clears the draft."
+        },
         {
           "version": "0.0.29",
           "buildVersion": "28",
@@ -101,10 +110,10 @@
           "localizedDescription": "Version history in Settings, local new-email notifications (including background), and a pull-to-refresh fix that no longer snaps the inbox back to the old position."
         }
       ],
-      "version": "0.0.29",
-      "versionDate": "2026-08-24T23:33:05Z",
-      "size": 877754,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.29/openMail-unsigned.ipa",
+      "version": "0.0.30",
+      "versionDate": "2026-08-24T23:39:38Z",
+      "size": 878797,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.30/openMail-unsigned.ipa",
       "type": 1
     }
   ]
