@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.26.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.27.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -19,6 +19,15 @@
       "category": "utilities",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.0.27",
+          "buildVersion": "26",
+          "date": "2026-08-24T16:55:44Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.27/openMail-unsigned.ipa",
+          "size": 882190,
+          "minOSVersion": "27.0",
+          "localizedDescription": "Complete Composer redesign with compact contact autocomplete, recipient chips, and working Czech diacritics/autocorrection."
+        },
         {
           "version": "0.0.26",
           "buildVersion": "25",
@@ -74,10 +83,10 @@
           "localizedDescription": "Version history in Settings, local new-email notifications (including background), and a pull-to-refresh fix that no longer snaps the inbox back to the old position."
         }
       ],
-      "version": "0.0.26",
-      "versionDate": "2026-08-24T16:44:39Z",
-      "size": 895657,
-      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.26/openMail-unsigned.ipa",
+      "version": "0.0.27",
+      "versionDate": "2026-08-24T16:55:44Z",
+      "size": 882190,
+      "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.27/openMail-unsigned.ipa",
       "type": 1
     }
   ]
