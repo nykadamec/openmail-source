@@ -2,7 +2,7 @@
   "name": "openMail Source",
   "identifier": "pro.adamec.openmail.source",
   "subtitle": "openMail IPA source",
-  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.30.",
+  "description": "Official openMail IPA source for KSign, ESign and AltStore-compatible clients. Latest release: v0.0.31.",
   "iconURL": "https://raw.githubusercontent.com/nykadamec/openmail-source/main/icon.png",
   "website": "https://github.com/nykadamec/openmail_ios_dev",
   "tintColor": "155EEF",
@@ -19,6 +19,15 @@
       "category": "utilities",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.0.31",
+          "buildVersion": "30",
+          "date": "2026-09-14T06:57:59Z",
+          "downloadURL": "https://github.com/nykadamec/openmail_ios_dev/releases/download/v0.0.31/openMail-unsigned.ipa",
+          "size": 913679,
+          "minOSVersion": "27.0",
+          "localizedDescription": "Sent folder now shows sent mail; sync on app start without delay; new mail appears live via server push; Profile supports first name, last name and phone."
+        },
         {
           "version": "0.0.30",
           "buildVersion": "29",
